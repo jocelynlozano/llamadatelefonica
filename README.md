@@ -7,11 +7,11 @@ Solución de Ejercicios
 ######Ejemplo:  
 
 _Input:_  
-_tiempo=3_
-_costoMinuto=5_
+_tiempo=3_  
+_costoMinuto=5_  
 
-_Output_
-_15_
+_Output_  
+_15_  
 
 ___Completando la función___
 
