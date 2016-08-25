@@ -25,4 +25,4 @@ ___Completando la función___
 7. IMPRIMIR RESULTADO
 8. FIN
 
-
+![alt text](http://i63.tinypic.com/ir3omf.jpg)
